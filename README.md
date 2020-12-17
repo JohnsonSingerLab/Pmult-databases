@@ -1,5 +1,5 @@
 # Pmult-databases
-Databases developed for the genomic characterization of P. multocida isolates
+Databases developed for the genomic characterization of *P. multocida* isolates
 
 
 #### Pmult_serogroup_genes.fasta
